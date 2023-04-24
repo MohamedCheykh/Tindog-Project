@@ -1,1 +1,1 @@
-This is my Bootstrap practice project! I used this project to duplicate an already made website using HTML, CSS, and Bootstrap.
+This is my Bootstrap practice project! It's a website using HTML, CSS, and Bootstrap.
